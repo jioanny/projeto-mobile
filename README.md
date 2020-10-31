@@ -7,7 +7,7 @@ E-English é um projeto de uma equipe do 3AI da Fundação Matias Machline. O pr
 ## Como baixar?
 
 Você pode baixar o APK do aplicativo neste link abaixo
-[clique aqui](www.drive.asdasdasdasda)
+[clique aqui](https://drive.google.com/drive/u/0/my-drive)
 
 ## Qual o público alvo?
 
@@ -46,7 +46,8 @@ A pasta padrão do **AVD** está localizada em ****C: \ Users \ <user_name> \ .a
 -   Adicione uma nova variável de **usuário** :
     -   **Nome da variável** : ANDROID_SDK_HOME
     -   **Valor da variável** : c:\AVD
-       Substitua c:\AVD pelo caminho que você deseja se tornar a nova raiz da pasta AVD.
-        O caminho inserido não pode ser a pasta raiz do Android SDK (mas pode ser uma subpasta).
- - Abra o Android Studio. Certifique-se de que uma pasta chamada **.android** foi criada em seu novo local.
--   Mova a pasta **avd** do local antigo ( **C: \ Users \ <user_name> \ .android** ) para o novo ( **D: \ Android_SDK_HOME \ .android** ).
+    
+    Substitua c:\AVD pelo caminho que você deseja se tornar a nova raiz da pasta AVD.
+    O caminho inserido não pode ser a pasta raiz do Android SDK (mas pode ser uma subpasta).
+- Abra o Android Studio. Certifique-se de que uma pasta chamada **.android** foi criada em seu novo local.
+-   Mova a pasta **avd** do local antigo ( **C: \ Users \ <user_name> \ .android** ) para o novo ( **c:\AVD\.android** ).
